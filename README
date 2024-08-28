@@ -1,0 +1,57 @@
+# Projeto: Sistema de Gerenciamento de Estoque
+
+Este projeto é um sistema simples de gerenciamento de estoque desenvolvido em Python. Ele permite adicionar, atualizar, remover e exibir produtos no estoque. O objetivo é demonstrar a manipulação de dados em um dicionário e a implementação de um menu interativo em Python.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O sistema de gerenciamento de estoque permite que o usuário:
+- Adicione novos produtos ao estoque.
+- Atualize a quantidade de produtos existentes.
+- Remova produtos ou quantidades específicas de produtos do estoque.
+- Exiba o estoque atual com todos os produtos e suas quantidades.
+
+O sistema é baseado em um menu interativo que guia o usuário através das diferentes operações.
+
+## Funcionalidades
+
+- **Adicionar produto:** Permite adicionar um novo produto ao estoque ou atualizar a quantidade de um produto existente.
+- **Atualizar quantidade:** Permite alterar a quantidade de um produto existente no estoque.
+- **Remover produto:** Permite remover um produto ou uma quantidade específica de um produto do estoque.
+- **Exibir estoque:** Exibe todos os produtos atuais no estoque com suas quantidades.
+- **Sair:** Encerra o programa.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/Sistema-de-Gerenciamento-de-Estoque.git
+2. Navegue até o diretório do projeto:
+   cd nome-do-repositorio
+3. Execute o programa:
+   python3 nome_do_arquivo.py
+4. Use o menu interativo para gerenciar o estoque.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
