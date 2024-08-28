@@ -1,0 +1,38 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+Sistema de Gerenciamento de Estoque
+
+Descrição: Desenvolva um sistema em Python para gerenciamento de estoque. O sistema deve permitir ao usuário adicionar novos produtos, atualizar quantidades, remover produtos ou quantidades específicas e exibir o estoque atual. O programa deve ser operado através de um menu interativo que oferece as opções de adicionar, atualizar, remover produtos, exibir o estoque e sair.
+
+Funcionalidades obrigatórias:
+
+1. Adicionar produtos com suas quantidades ao estoque.
+2. Atualizar a quantidade de produtos existentes no estoque.
+3. Remover produtos ou uma quantidade específica de um produto do estoque.
+4. Exibir todos os produtos e suas quantidades no estoque atual.
+5. Fornecer um menu interativo para navegação entre as funcionalidades.
+Tecnologias: Python 3.x
+
+Licença: MIT License
